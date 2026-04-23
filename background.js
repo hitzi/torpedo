@@ -531,7 +531,7 @@ async function registerContentScripts() {
 
     js: [
       // Any number of code or file objects could be listed here.
-      { file: "js/jquery-3.4.1.min.js" },
+      { file: "js/jquery-3.7.1.min.js" },
       { file: "js/jquery.qtip.min.js" },
       { file: "js/publicsuffixlist.js" },
       { file: "js/punycode.min.js" },
